@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="section-calendar">
+    <title>Calendar</title>
+
+    <p>
+        Making a calendar in <pretext/>, without WYSIWYG processing, can be tedious.
+        There are two tabulars below for demonstration. One for each half of the term.
+    </p>
+
+    <tabular valign="top" bottom="minor" right="minor" left="major" top="major">
+        <col/>
+        <col/>
+        <col width="21%"/>
+        <col width="48%" right="major"/>
+        <row header="yes" bottom="medium">
+            <cell>Module</cell>
+            <cell>Sections</cell>
+            <cell>Activities</cell>
+            <cell>Assignments</cell>
+        </row>
+        <row>
+            <cell>
+                <line>0</line>
+                <line>1/9<ndash/>1/12</line>
+            </cell>
+            <cell>
+            </cell>
+            <cell>
+                <p>
+                    Watch the Orientation video.
+                </p>
+                <p>
+                    Read Course Syllabus and Calendar.
+                </p>
+            </cell>
+            <cell>
+                <p>
+                    Complete the WeBWorK Orientation Assignment by Thursday at 10 <pm/>.
+                </p>
+                <p>
+                    Make a post in the Introduce Yourself Discussion by Thursday at 10 <pm/>.
+                    And then be a member of a study group of 4<ndash/>6 by Sunday at 10 <pm/>.
+                </p>
+            </cell>
+        </row>
+        <row>
+            <cell>
+                <line>1</line>
+                <line>1/9<ndash/>1/15</line>
+            </cell>
+            <cell>
+                <line>10.1</line>
+                <line>10.2</line>
+                <line>10.3</line>
+            </cell>
+            <cell>
+                <p>
+                    Watch video lectures and complete related lecture outlines.
+                </p>
+                <p>
+                    Read corresponding textbook sections.
+                </p>
+            </cell>
+            <cell>
+                <p>
+                    Complete the WeBWorK Exercises for Sections 10.1, 10.2, and 10.3 by Sunday at 10 <pm/>.
+                </p>
+                <p>
+                    Complete and upload Worksheet #1 by Sunday at 10 <pm/>.
+                </p>
+            </cell>
+        </row>
+        <row>
+            <cell>
+                <line>2</line>
+                <line>1/16<ndash/>1/22</line>
+            </cell>
+            <cell>
+                <line>10.4</line>
+                <line>10.5</line>
+                <line>10.6</line>
+            </cell>
+            <cell>
+                <p>
+                    Watch video lectures and complete related lecture outlines.
+                </p>
+                <p>
+                    Read corresponding textbook sections.
+                </p>
+            </cell>
+            <cell>
+                <p>
+                    Complete the WeBWorK Exercises for Sections 10.4, 10.5, and 10.6 by Sunday at 10 <pm/>.
+                </p>
+                <p>
+                    Complete and upload Worksheet #2 by Sunday at 10 <pm/>.
+                </p>
+            </cell>
+        </row>
+        <row>
+            <cell>
+                <line>3</line>
+                <line>1/23<ndash/>1/29</line>
+            </cell>
+            <cell>
+                <line>10.7</line>
+                <line>11.1</line>
+                <line>11.2</line>
+            </cell>
+            <cell>
+                <p>
+                    Watch video lectures and complete related lecture outlines.
+                </p>
+                <p>
+                    Read corresponding textbook sections.
+                </p>
+            </cell>
+            <cell>
+                <p>
+                    Complete the WeBWorK Exercises for Sections 10.7, 11.1, and 11.2 by Sunday at 10 <pm/>.
+                </p>
+                <p>
+                    Complete and upload Worksheet #3 by Sunday at 10 <pm/>.
+                </p>
+            </cell>
+        </row>
+        <row bottom="medium">
+            <cell>
+                <line>4</line>
+                <line>1/30<ndash/>2/5</line>
+            </cell>
+            <cell>
+                <line>11.3</line>
+                <line>11.4</line>
+                <line>11.5</line>
+            </cell>
+            <cell>
+                <p>
+                    Watch video lectures and complete related lecture outlines.
+                </p>
+                <p>
+                    Read corresponding textbook sections.
+                </p>
+            </cell>
+            <cell>
+                <p>
+                    Complete the WeBWorK Exercises for Sections 11.3, 11.4, and 11.5 by Sunday at 10 <pm/>.
+                </p>
+                <p>
+                    Complete and upload Worksheet #4 by Sunday at 10 <pm/>.
+                </p>
+            </cell>
+        </row>
+        <row bottom="major">
+            <cell>Midterm</cell>
+                <line>2/6</line>
+                <line><ndash/>2/17</line>
+            <cell>
+            </cell>
+            <cell>
+                <p>
+                    Work through the midterm exam review material.
+                </p>
+            </cell>
+            <cell>
+                <p>
+                    Midterm Exam is on Friday, Feb 17, 2023 from 9:00<ndash/>11:50 <am/> or 1:30<ndash/>4:20 <pm/>
+                    (your choice). In person at Cascade. See <xref ref="section-exams"/> if an alternative is necessary,
+                    but you need to plan for such things at least two weeks in advance.
+                </p>
+            </cell>
+        </row>
+    </tabular>
+
+    <tabular valign="top" bottom="minor" right="minor" left="major" top="major">
+        <col/>
+        <col/>
+        <col width="21%"/>
+        <col width="48%" right="major"/>
+        <row header="yes" bottom="medium">
+            <cell>Module</cell>
+            <cell>Sections</cell>
+            <cell>Activities</cell>
+            <cell>Assignments</cell>
+        </row>
+        <row>
+            <cell>
+                <line>5</line>
+                <line>2/13<ndash/>2/19</line>
+            </cell>
+            <cell>
+                <line>12.1</line>
+                <line>12.2</line>
+                <line>12.3</line>
+            </cell>
+            <cell>
+                <p>
+                    Watch video lectures and complete related lecture outlines.
+                </p>
+                <p>
+                    Read corresponding textbook sections.
+                </p>
+            </cell>
+            <cell>
+                <p>
+                    Complete the WeBWorK Exercises for Sections 12.1, 12.2, and 12.3 by Sunday at 10 <pm/>.
+                </p>
+                <p>
+                    Complete and upload Worksheet #5 by Sunday at 10 <pm/>.
+                </p>
+            </cell>
+        </row>
+        <row>
+            <cell>
+                <line>6</line>
+                <line>2/20<ndash/>2/26</line>
+            </cell>
+            <cell>
+                <line>12.4</line>
+                <line>12.5</line>
+            </cell>
+            <cell>
+                <p>
+                    Watch video lectures and complete related lecture outlines.
+                </p>
+                <p>
+                    Read corresponding textbook sections.
+                </p>
+            </cell>
+            <cell>
+                <p>
+                    Complete the WeBWorK Exercises for Sections 12.4 and 12.5 by Sunday at 10 <pm/>.
+                </p>
+                <p>
+                    Complete and upload Worksheet #6 by Sunday at 10 <pm/>.
+                </p>
+            </cell>
+        </row>
+        <row>
+            <cell>
+                <line>7</line>
+                <line>2/27<ndash/>3/5</line>
+            </cell>
+            <cell>
+                <line>13.1</line>
+                <line>13.2</line>
+            </cell>
+            <cell>
+                <p>
+                    Watch video lectures and complete related lecture outlines.
+                </p>
+                <p>
+                    Read corresponding textbook sections.
+                </p>
+            </cell>
+            <cell>
+                <p>
+                    Complete the WeBWorK Exercises for Sections 13.1 and 13.2 by Sunday at 10 <pm/>.
+                </p>
+                <p>
+                    Complete and upload Worksheet #7 by Sunday at 10 <pm/>.
+                </p>
+            </cell>
+        </row>
+        <row>
+            <cell>
+                <line>8</line>
+                <line>3/6<ndash/>3/12</line>
+            </cell>
+            <cell>
+                <line>13.3</line>
+                <line>13.4</line>
+            </cell>
+            <cell>
+                <p>
+                    Watch video lectures and complete related lecture outlines.
+                </p>
+                <p>
+                    Read corresponding textbook sections.
+                </p>
+            </cell>
+            <cell>
+                <p>
+                    Complete the WeBWorK Exercises for Sections 13.3 and 13.4 by Sunday at 10 <pm/>.
+                </p>
+                <p>
+                    Complete and upload Worksheet #8 by Sunday at 10 <pm/>.
+                </p>
+            </cell>
+        </row>
+        <row bottom="medium">
+            <cell>
+                <line>9</line>
+                <line>3/13<ndash/>3/19</line>
+            </cell>
+            <cell>
+                <line>13.5</line>
+                <line>13.6</line>
+                <line>13.7</line>
+            </cell>
+            <cell>
+                <p>
+                    Watch video lectures and complete related lecture outlines.
+                </p>
+                <p>
+                    Read corresponding textbook sections.
+                </p>
+            </cell>
+            <cell>
+                <p>
+                    Complete the WeBWorK Exercises for Sections 13.5, 13.6, and 13.7 by Sunday at 10 <pm/>.
+                </p>
+                <p>
+                    Complete and upload Worksheet #9 by Sunday at 10 <pm/>.
+                </p>
+            </cell>
+        </row>
+        <row bottom="major">
+            <cell>
+                <line>Final</line>
+                <line>3/13<ndash/>3/22</line>
+            </cell>
+            <cell>
+            </cell>
+            <cell>
+                <p>
+                    Work through the final exam review material.
+                </p>
+            </cell>
+            <cell>
+                <p>
+                    Midterm Exam is on Wednesday, Mar 22, 2023 from 9:00<ndash/>11:50 <am/> or 1:30<ndash/>4:20 <pm/>
+                    (your choice). In person at Cascade. See <xref ref="section-exams"/> if an alternative is necessary,
+                    but you need to plan for such things at least two weeks in advance.
+                </p>
+            </cell>
+        </row>
+    </tabular>
+</section>

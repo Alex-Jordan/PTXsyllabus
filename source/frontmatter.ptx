@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<frontmatter xml:id="frontmatter">
+    <titlepage>
+        <author>
+            <personname>T.X. Peter</personname>
+        </author>
+        <date>Spring 2023</date>
+    </titlepage>
+
+    <abstract>
+        <p>
+            This syllabus is a written contract between student and instructor.
+            Please read it carefully and contact your instructor if you need clarification.
+        </p>
+    </abstract>
+
+</frontmatter>

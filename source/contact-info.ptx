@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="section-contact-info">
+    <title>Contact Information</title>
+
+    <sidebyside margins="0% 0%" widths="45% 45%" valign="middle">
+        <p>
+            <dl width="narrow">
+                <li>
+                    <title>Instructor</title>
+                    <p>T.X. Peter</p>
+                </li>
+                <li>
+                    <title>Office</title>
+                    <p>Campus Building Room</p>
+                </li>
+                <li>
+                    <title>Phone</title>
+                    <p>971-722-xxxx</p>
+                </li>
+            </dl>
+        </p>
+        <p>
+            <institution>
+                <line>Portland Community College</line>
+                <line>SY/CA/RC/SE Campus</line>
+                <line>123 Something Street</line>
+                <line>City, State  ZIP</line>
+            </institution>
+        </p>
+    </sidebyside>
+
+    <p>
+        Because of federal privacy laws, all email communication with me related to this class
+        needs to be sent to and from your <c>@pcc.edu</c> email address,
+        or using D2L's Classlist messaging tool.
+    </p>
+
+    <tabular top="major" valign="top" left="major" bottom="minor">
+        <col/>
+        <col/>
+        <col/>
+        <col right="major"/>
+        <col right="major"/>
+        <col right="major"/>
+        <row bottom="medium">
+            <cell>CRN</cell>
+            <cell>Days</cell>
+            <cell>Time</cell>
+            <cell>Place</cell>
+            <cell>Midterm Exam</cell>
+            <cell>Final Exam</cell>
+        </row>
+        <row bottom="major">
+            <cell>XXXXX</cell>
+            <cell>MW</cell>
+            <cell>9:00<ndash/>11:50</cell>
+            <cell>
+                <line>Classroom</line>
+                <line>Zoom</line>
+            </cell>
+            <cell>
+                <line>DayOfWeek</line>
+                <line>Date</line>
+                <line>Start<ndash/>End</line>
+            </cell>
+            <cell>
+                <line>DayOfWeek</line>
+                <line>Date</line>
+                <line>Start<ndash/>End</line>
+            </cell>
+        </row>
+    </tabular>
+
+    <p>
+        I have drop-in office hours where you don't need to make an appointment. Come to
+        <url href="https://portlandcc.zoom.us/j/XXXX" visual="portlandcc.zoom.us/j/XXXX">Zoom</url>,
+        or come to my physical office at CAMPUS.
+        The times will be established during the first week after surveying students
+        to see what is most helpful.
+        If you would like to meet the first week, write me an email and we will set something up.
+    </p>
+
+    <tabular top="major" left="major">
+        <col/>
+        <col right="medium"/>
+        <col/>
+        <col right="major"/>
+        <row>
+            <cell colspan="4" halign="center">Office Hours</cell>
+        </row>
+        <row bottom="medium">
+            <cell colspan="2">Regular</cell>
+            <cell colspan="2">Finals Week</cell>
+        </row>
+        <row bottom="minor">
+            <cell>Monday</cell>
+            <cell>Start<ndash/>Stop</cell>
+            <cell><!-- Monday --></cell>
+            <cell><!-- Start<ndash/>Stop --></cell>
+        </row>
+        <row bottom="minor">
+            <cell>Tuesday</cell>
+            <cell>Start<ndash/>Stop</cell>
+            <cell>TBD<!-- Tuesday --></cell>
+            <cell>TBD<!-- Start<ndash/>Stop --></cell>
+        </row>
+        <row bottom="major">
+            <cell>Thursday</cell>
+            <cell>Start<ndash/>Stop</cell>
+            <cell>TBD<!-- Wednesday --></cell>
+            <cell>TBD<!-- Start<ndash/>Stop --></cell>
+        </row>
+    </tabular>
+
+    <p>
+        If those times are not workable for you, please feel comfortable contacting me
+        to make some other arrangements.
+    </p>
+
+</section>
+

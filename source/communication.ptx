@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="section-communication">
+    <title>Communication</title>
+
+    <paragraphs>
+        <title>Best Way to Contact Me</title>
+
+        <p>
+            The best way to contact me is by using the D2L Brightspace e-mail system
+            which can be accessed from the Classlist.
+            You can use it to send an e-mail to me and/or your classmates.
+        </p>
+        <p>
+            You should include a relevant subject in the <c>Subject:</c> or <c>RE:</c> section
+            of your e-mail. The subject should include the class you are taking
+            (including the course number and CRN) and the topic of your message.
+            For example, you email subject line might be:
+            <cd>[SUBJ XXX - CRN XXXXX]: Help with Section 1.1 Homework</cd>
+            If you treat your email subject line this way,
+            it helps me prioritize getting back to you quickly.
+            I get very maany emails every day from here and there, and I want your emails
+            (my student's emails) to be the ones I address first.
+        </p>
+        <p>
+            If your question or comment would be of interest to other students,
+            please consider posting it to the General Discussions area instead.
+            Then I can publicly answer your question,
+            and the entire class will benefit from the answers.
+        </p>
+        <p>
+            You can also find me in Office Hours as described in
+            <xref ref="section-contact-info" text="title"/>.
+        </p>
+    </paragraphs>
+
+    <paragraphs>
+        <title>Responses from Me</title>
+
+        <p>
+            You can expect me to reply to your emails and discussion posts within 48 hours,
+            and often much sooner. I often will not reply to messages sent in the evening
+            until the following day.
+        </p>
+    </paragraphs>
+
+</section>

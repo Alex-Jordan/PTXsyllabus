@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<docinfo>
+    <!-- For title in HTML head, browser tabs, bookmarks, etc. -->
+    <initialism>PTX 111</initialism>
+
+    <!-- Thumbnail link used in HTML -->
+    <brandlogo url="https://pretextbook.org/" source="images/ptx-logo.png"/>
+
+    <rename element="frontmatter">Syllabus</rename>
+    <rename element="abstract">Alert</rename>
+
+</docinfo>

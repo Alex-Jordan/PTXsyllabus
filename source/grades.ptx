@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="grades">
+    <title>Grades</title>
+
+    <p>
+        General PCC Grading Guidelines are found at
+        <url href="http://catalog.pcc.edu/handbook/g301-gradingguidelines/" visual="catalog.pcc.edu/handbook/g301-gradingguidelines"/>.
+    </p>
+
+    <p>
+        Below is one course's breakdown of grades, to provide examples of <pretext/> structure.
+    </p>
+
+    <paragraphs>
+        <title>Video Lecture Notes (4%)</title>
+        <p>
+            Just as with in-person lectures, taking notes during the lectures helps students understand
+            and retain information. Each section has lecture notes that accompany the YouTube videos.
+            Print these and fill them in as you watch the videos. (Or annotate a PDF digitally.)
+            The completed lecture notes will be turned in before exams and checked for completeness.
+        </p>
+    </paragraphs>
+
+    <paragraphs>
+        <title>Online Homework (24%)</title>
+        <p>
+            You have online homework for each section using <webwork/>.
+            See <xref ref="section-online-homework" text="title"/> for details.
+            The due date for each assignment is posted in <webwork/>.
+            Usually, more than one section will be due at the same time.
+        </p>
+    </paragraphs>
+
+    <paragraphs>
+        <title>Worksheets (24%)</title>
+        <p>
+            Each week there is a worksheet to complete and turn in. You are encouraged to work
+            with your group partners on these assignments (using Zoom, Discord, email, whatever works),
+            and check each other's work before turning yours in.
+        </p>
+    </paragraphs>
+
+    <paragraphs>
+        <title>Exams (24% + 24%)</title>
+        <p>
+            There is a midterm exam and a final exam. Each exam is proctored, in class.
+            See <xref ref="section-exams" text="title"/> for more information.
+        </p>
+    </paragraphs>
+
+    <paragraphs>
+        <title>Grading Options</title>
+        <p>
+            Students are solely responsible for adding, dropping, or withdrawing from any class,
+            as well as for selecting their desired grading option. Please review
+            <url href="http://www.pcc.edu/enroll/registration/policies.html" visual="www.pcc.edu/enroll/registration/policies.html">PCC Registration Policy</url>
+            for more information.
+        </p>
+    </paragraphs>
+
+    <paragraphs>
+        <title>Letter Grades</title>
+        <p>
+            Your letter grade will be assigned based on the weighted average of the items above.
+        </p>
+        <tabular>
+            <row>
+                <cell>90% and up</cell>
+                <cell>A</cell>
+                <cell/>
+            </row>
+            <row>
+                <cell>80% up to 90%</cell>
+                <cell>B</cell>
+                <cell/>
+            </row>
+            <row bottom="minor">
+                <cell>70% up to 80%</cell>
+                <cell>C</cell>
+                <cell>P</cell>
+            </row>
+            <row>
+                <cell>60% up to 70%</cell>
+                <cell>D</cell>
+                <cell>N</cell>
+            </row>
+            <row>
+                <cell>under 60%</cell>
+                <cell>F</cell>
+                <cell/>
+            </row>
+        </tabular>
+    </paragraphs>
+
+</section>

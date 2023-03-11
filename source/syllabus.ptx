@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pretext xmlns:xi="http://www.w3.org/2001/XInclude">
+
+    <xi:include href="./docinfo.ptx" />
+
+    <article xml:id="syllabus">
+        <title>Syllabus</title>
+        <subtitle>PTX 111 Syllabus Making</subtitle>
+
+        <xi:include href="./frontmatter.ptx" />
+        <xi:include href="./basic-needs.ptx" />
+        <xi:include href="./contact-info.ptx" />
+        <xi:include href="./course-description.ptx" />
+        <xi:include href="./communication.ptx" />
+        <xi:include href="./weekly-routine.ptx" />
+        <xi:include href="./expectations.ptx" />
+        <xi:include href="./textbook.ptx" />
+        <xi:include href="./technology.ptx" />
+        <xi:include href="./grades.ptx" />
+        <xi:include href="./online-homework.ptx" />
+        <xi:include href="./worksheets.ptx" />
+        <xi:include href="./exams.ptx" />
+        <xi:include href="./resources.ptx" />
+        <xi:include href="./miscellaneous.ptx" />
+        <xi:include href="./special-dates.ptx" />
+        <xi:include href="./calendar.ptx" />
+
+   </article>
+
+</pretext>

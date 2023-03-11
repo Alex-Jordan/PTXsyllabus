@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This file provides the overall configuration for your PreTeXt project. -->
+<!-- To edit the content of your document, open `source/syllabus.ptx`.      -->
+
+<project>
+    <targets>
+        <!-- To build this target, run `pretext build html` -->
+        <target name="html">
+            <format>html</format>
+            <source>source/syllabus.ptx</source>
+            <publication>publication/publication.xml</publication>
+            <output-dir>output/html</output-dir>
+        </target>
+        <!-- To build this target, run `pretext build pdf` -->
+        <target name="pdf" pdf-method="xelatex">
+            <format>pdf</format>
+            <source>source/syllabus.ptx</source>
+            <publication>publication/publication.xml</publication>
+            <output-dir>output/pdf</output-dir>
+        </target>
+    </targets>
+
+    <executables>
+        <latex>latex</latex>
+        <pdflatex>pdflatex</pdflatex>
+        <xelatex>xelatex</xelatex>
+        <pdfsvg>pdf2svg</pdfsvg>
+        <asy>asy</asy>
+        <sage>sage</sage>
+        <pdfpng>convert</pdfpng>
+        <pdfeps>pdftops</pdfeps>
+        <node>node</node>
+        <liblouis>file2brl</liblouis>
+    </executables>
+
+</project>

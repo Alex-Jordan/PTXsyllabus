@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="section-online-homework">
+    <title><webwork/> Assignments</title>
+
+    <p>
+        Below is one course's description of its online homework.
+    </p>
+
+    <p>
+        I have made an account for you on an online homework platform called <webwork/>.
+        You can access <webwork/> using the navbar in our D2L course.
+        Each week there are problem sets and you are required to answer them online in <webwork/>.
+        Each problem set is due at 10:00 <pm/> on Sunday at the end of that module's week.
+        You may submit answers any time before the due date.
+    </p>
+
+    <paragraphs>
+        <title>Late Work</title>
+        <p>
+            After a due date, you still have up to two weeks to answer <webwork/> exercises
+            and get 95% credit. It's usually a two-week window, however the window is shorter
+            right before the midterm or final exam. The idea is that you really should
+            complete all homework before coming in to take an exam.
+        </p>
+    </paragraphs>
+
+    <paragraphs>
+        <title>Homework Sets Menu</title>
+        <p>This shows you the assignments that have been assigned to you and when they are due. You may:
+            <ul>
+                <li>
+                    <p>
+                        click on an assignment and begin working on problems online
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        check the box next to an assignment and click <c>Download Hardcopy</c>
+                        to get the assignment as a <c>.pdf</c> file
+                        which you may then print to work on away from a computer.
+                    </p>
+                </li>
+            </ul>
+        </p>
+        <p>
+            When you click on an assignment, you will see a screen with the problem numbers listed.
+            To the right there is an information panel that might have specific instructions
+            or other information about the assignment. You should always look for and read this panel.
+        </p>
+    </paragraphs>
+
+    <paragraphs>
+        <title>Emailing for Help</title>
+        <p>
+            When you are stumped, you can use the <c>Email Instructor</c> button at the bottom of a page.
+            Write a message explaining what you have tried. If possible, include work from your tries.
+            <webwork/> will send me an email with helpful information (like all of the incorrect attempts
+            you have tried) and I will get back to you soon with a response. When I respond, it will be
+            with an email. So <alert>you must remember to check your email</alert>.
+        </p>
+    </paragraphs>
+
+    <paragraphs>
+        <title>Math Achievements</title>
+        <p>
+            As you complete problems, you will win badges for various <q>achievements</q>.
+            For example, the <q>On One Hand</q> badge is for completing an exercise set with fewer than
+            five incorrect submissions. Earning badges and answering questions correctly will earn you
+            <q>achievement points</q>. As you earn more achievement points, you will level up.
+            Each time you level up, you earn an item that can be used to affect your grade.
+        </p>
+    </paragraphs>
+
+</section>
