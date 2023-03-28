@@ -4,8 +4,10 @@
     <title>Calendar</title>
 
     <p>
-        Making a calendar in <pretext/>, without WYSIWYG processing, can be tedious.
-        There are two tabulars below for demonstration. One for each half of the term.
+        <pretext/> does not have a good calendar-building tool.
+        One approach is to use tables. Below, the calendar is divided into two tables.
+        This provides a nice breakpoint in the PDF. Another approach would be to use
+        <tag>sidebyside</tag> elements.
     </p>
 
     <tabular valign="top" bottom="minor" right="minor" left="major" top="major">
