@@ -11,6 +11,7 @@
         <xi:include href="./frontmatter.ptx" />
         <xi:include href="./basic-needs.ptx" />
         <xi:include href="./contact-info.ptx" />
+        <xi:include href="./introduction.ptx" />
         <xi:include href="./course-description.ptx" />
         <xi:include href="./communication.ptx" />
         <xi:include href="./weekly-routine.ptx" />
